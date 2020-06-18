@@ -117,4 +117,4 @@ with open(model_json_file, "w") as json_file:
     json_file.write(model_json)
 # serialize weights to HDF5
 # model.save_weights("model.h5")
-print("Saved model to disk")
+print("Saved the model to disk")
